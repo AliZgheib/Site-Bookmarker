@@ -1,0 +1,15 @@
+.item{
+    background-color: rgb(68, 66, 66);
+    padding: 20px 80px 20px 80px;
+    border-radius: 5px;
+    box-shadow: 20px 5px 5px rgb(179, 175, 175);
+    }
+
+.col{        margin:30px;
+    
+}
+
+.hide{
+
+    display: none;
+}
